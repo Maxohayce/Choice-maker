@@ -1,0 +1,37 @@
+.choice-container {
+    height: 35vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 0.5rem;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+input {
+    font-family: fantasy;
+    font-weight: 50;
+    width: 25rem;
+    border-radius: 0.1rem#03ce8a;;
+    box-shadow: 0.1rem 0.1rem 0.5rem#b0ebd6;
+    padding: 0.4rem;
+    border: 0.4rem #34aad8;
+    color: #34aad8;
+    outline: #34aad8;
+}
+input:active {
+    
+}
+
+select {
+    width: 80%;
+    border-radius: 2rem;
+    outline: #34aad8;
+    color: black;
+    padding: 0.2rem;
+}
+
+option {
+    max-height: auto;
+    align-items: stretch;
+}

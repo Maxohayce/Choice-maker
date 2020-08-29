@@ -1,0 +1,13 @@
+button {
+    float: right;
+    background-color:  #34aad8;
+    border-radius: 0.5rem;
+    padding: 0.6rem;
+    color: #b0ebd6;
+    border: #b0ebd6;
+    outline: none;
+}
+
+button:active {
+    
+}
